@@ -1,5 +1,11 @@
 [
   {
     "package": "muste"
+  },
+  {
+    "package": "survo.audio"
+  },
+  {
+    "package": "virta"
   }
 ]

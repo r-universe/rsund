@@ -9,3 +9,15 @@
 	shallow = true
 	subdir = pkg/muste
 	registered = true
+[submodule "survo.audio"]
+	path = survo.audio
+	url = https://github.com/rsund/survor
+	shallow = true
+	subdir = pkg/survo.audio
+	registered = true
+[submodule "virta"]
+	path = virta
+	url = https://github.com/rsund/survor
+	shallow = true
+	subdir = pkg/virta
+	registered = true
