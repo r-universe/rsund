@@ -7,5 +7,9 @@
   },
   {
     "package": "virta"
+  },
+  {
+    "package": "duckdb",
+    "oncran": false
   }
 ]

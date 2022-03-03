@@ -21,3 +21,8 @@
 	shallow = true
 	subdir = pkg/virta
 	registered = true
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/rsund/duckdb-r
+	shallow = true
+	registered = true
